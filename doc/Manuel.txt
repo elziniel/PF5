@@ -1,0 +1,13 @@
+Projet PF5 2014: Compression de Huffman
+
+Authors: Jordan Downey - Esteban Escandell
+
+Installation:
+Exécutez la commande make sur le repertoire Rendu
+
+Utilisation:
+Pour compresser un fichier utilisez la commande ./huffman -c [CHEMIN DU FICHIER]. 
+Un fichier avec l'extension hf sera créé dans le même répertoire que le fichier d'origine.
+
+Pour décompresser un fichier utilisez la commande ./huffman -d [CHEMIN DU FICHIER]. 
+Un fichier sera créé dans le même répertoire que le fichier d'origine.
